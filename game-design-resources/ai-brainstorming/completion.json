@@ -1,0 +1,17 @@
+{
+    "completions": [
+        {
+            "prompt": "Generate text for the landing page of the 'Frozen Fates' post apocalyptic co-operative board game. The game takes place on a frozen planet.",
+            "model": "text-davinci-003",
+            "response": {
+                "id":"cmpl-6XsV320undRtpVX1Tf9dK7DVprCkG",
+                "object":"text_completion",
+                "created":1673532341,
+                "model":"text-davinci-003",
+                "choices":[
+                    {"text":"\n\nWelcome to Frozen Fates, the post-apocalyptic board game!\n\nIn this game, you are a survivor in a frozen world, struggling to survive in a hostile environment. You must scavenge for resources, build shelter, and fight off hostile forces in order to survive. With its unique game mechanics and stunningly detailed art, Frozen Fates puts you in the middle of a harsh and unforgiving world.\n\nExperience the thrill of survival as you battle against the elements, scavenge for resources, and build a shelter to protect yourself from the dangers of the post-apocalyptic world. With its strategic game play and immersive story, Frozen Fates will keep you on the edge of your seat.\n\nSo what are you waiting for? Join the fight for survival and play Frozen Fates today!","index":0,"logprobs":null,"finish_reason":"stop"}
+                    ],
+                "usage":{"prompt_tokens":29,"completion_tokens":166,"total_tokens":195}}
+        }
+    ]
+}
