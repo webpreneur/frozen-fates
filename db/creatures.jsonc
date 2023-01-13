@@ -1,0 +1,26 @@
+// What mythical creature lives in snow?
+{
+    "researchKeywords": ["winter monster"],
+    "creatures": [
+        {
+            "name": "Ice Ghost",
+            "species": "ghost"
+        },
+        {
+            "name": "Polar Bear",
+            "species": "animal"
+        },
+        {
+            "name": "Zombie"
+        },
+        {
+            "name": "Abominable Snowman",
+            "altNames": ["Yeti", "Tibetan Yeti"],
+            "desciption": "Mythical monster resembling a large, hairy, apelike being supposed to inhabit the Himalayas at about the level of the snow line.",
+            "category": "monster"
+        },
+        {
+    
+        }
+    ]
+}

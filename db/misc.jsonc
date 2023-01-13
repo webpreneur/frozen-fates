@@ -1,0 +1,29 @@
+{
+    "storyIdeas": [
+        "This dystopian world is controlled by a mythical supreme ruler, called ${ruler}."
+    ],
+    "gameMechanics": [
+        "resource management",
+        "storytelling",
+        "co-operative",
+        "exploration",
+        "survival",
+        "rebuild",
+        "town placement",
+        "gang placement",
+        "worker placement"
+    ],
+    "references": {
+        "boardGames": [
+            {
+                "name": "Frosthaven",
+                "urls": [
+                    "https://boardgamegeek.com/boardgame/295770/frosthaven"
+                ],
+                "notes": [
+                    "There is a single player extension!"
+                ]
+            }
+        ]
+    }
+}

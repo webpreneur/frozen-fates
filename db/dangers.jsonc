@@ -1,0 +1,43 @@
+{
+    "dangers": [
+        {
+            "name": "animal attack",
+            "type": "attack"
+        },
+        {
+            "name": "frostbite",
+            "type": "injury"
+        },
+        {
+            "name": "pandemic",
+            "type": "disaster"
+        },
+        {
+            "name": "frost plague",
+            "type": "disease"
+        },
+        {
+            "name": "blizzard",
+            "altName": "snowstorm",
+            "type": "disaster"
+        },
+        {
+            "name": "avalanche",
+            "type": "disaster"
+        },
+        {
+            "name": "cavern collapse",
+            "altName": "cave-in",
+            "type": "disaster"
+        },
+        {
+            "name": "roof fall",
+            "type": "disaster",
+            "description": "In mining, the term roof fall is used to refer to collapses."
+        },
+        {
+            "name": "invasion",
+            "type": "attack"
+        }
+    ]
+}

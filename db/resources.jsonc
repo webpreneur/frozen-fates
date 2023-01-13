@@ -1,0 +1,13 @@
+{
+    "resources": [
+        {
+            "name": "coal"
+        },
+        {
+            "name": "fuel"
+        },
+        {
+            "name": "food"
+        }
+    ]
+}

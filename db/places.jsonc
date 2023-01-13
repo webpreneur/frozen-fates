@@ -1,0 +1,25 @@
+{
+    "cities": [
+        {
+            "name": "White Oak",
+            "population": 125483,
+            "leader": "...",
+            "inhabited": true
+        }
+    ],
+    "towns": [
+
+    ],
+    "villages": [
+
+    ],
+    // settlements are smaller than villages,
+    "settlements": [
+
+    ],
+    "outposts": [
+        {
+            "role": "military"
+        }
+    ]
+}

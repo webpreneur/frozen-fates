@@ -1,0 +1,11 @@
+{
+    "$schema": "./buildings.schema.json",
+    "buildings": [
+        {
+            "name": "shelter"
+        },
+        {
+            "name": "outpost"
+        }
+    ]
+}

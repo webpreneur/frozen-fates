@@ -1,0 +1,19 @@
+// A ---structure--- is any type of man-made construction. 
+// For example, it may be a bridge or a dam. 
+// Conversely, a ---building--- is specifically a closed structure with a roof and walls.
+{
+    "structures": [
+        {
+            "name": "bridge"
+        },
+        {
+            "name": "dam"
+        },
+        {
+            "name": "road"
+        },
+        {
+            "name": "wall"
+        }
+    ]
+}

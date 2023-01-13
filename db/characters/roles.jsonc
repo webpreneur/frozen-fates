@@ -1,0 +1,38 @@
+{
+    "characterRoles": [
+        {
+            "title": "mercenary",
+            "field": "military",
+            "description": ""
+        },
+        {
+            "title": "doctor",
+            "field": "medicine",
+            "description": ""
+        },
+        {
+            "title": "scientist",
+            "field": "science",
+            "description": "."
+        },
+        // [WRITESONIC] What is the role of an engineer in a cooperative board game set in a post-apocalyptic ice age?
+        {
+            "field": "engineer",
+            "role": "Helps the other players build and maintain the structures that are necessary for their survival, such as shelters, weapons, and machines. Additionally, you may be tasked with creating and managing resources, such as food and fuel, in order to ensure the survival of your group. It is also important for you to be able to think strategically and come up with creative solutions to any problems that may arise."
+        },
+        // [WRITESONIC] What is the role of an architect in a cooperative board game set in a post-apocalyptic ice age?
+        {
+            "title": "architect",
+            "field": "construction",
+            "role": "Helps the other players design and build the structures necessary for their survival. This includes constructing buildings, roads, walls, and other structures that can provide shelter, protection, and resources. You must also be able to think strategically, plan ahead, and come up with creative solutions to any obstacles that may arise. You may also be tasked with researching and developing new technologies that can be used to improve the group's chances of survival."
+        },
+        {
+            "title": "",
+            "field": "agriculture"
+        },
+        {
+            "title": "leader",
+            "role": ""
+        }
+    ]
+}
