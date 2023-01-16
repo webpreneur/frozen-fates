@@ -1,0 +1,16 @@
+{
+    "weapons": [
+        {
+            "name": "axe"
+        },
+        {
+            "name": "chainsaw"
+        },
+        {
+            "name": "shotgun"
+        }, 
+        {
+            "name": "hammer"
+        }
+    ]
+}

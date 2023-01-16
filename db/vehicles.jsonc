@@ -10,5 +10,18 @@
     },
     {
         "name": "boat"
+    },
+    {
+        "name": "expedition command vehicle",
+        "altNames": ["E.C.V"],
+        "images": "",
+        "urls": [
+            "https://www.artstation.com/artwork/vqQYY"
+        ]
+    },
+    {
+        "name": "submarine",
+        "images": "",
+        "urls": ["https://www.artstation.com/artwork/yz3LR"]
     }
 ]

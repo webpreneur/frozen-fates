@@ -1,0 +1,49 @@
+// A ---structure--- is any type of man-made construction. 
+// For example, it may be a bridge or a dam. 
+// Conversely, a ---building--- is specifically a closed structure with a roof and walls.
+{
+    "$schema": "./locations.schema.json",
+    "buildings": [
+        {
+            "name": "refugee camp",
+            "altNames": ["shelter"],
+            "description": [
+                "f"
+            ]
+        },
+        {
+            "name": "outpost",
+            "description": "Here resources can be scavenged, and creatures/enemies can be fought off."
+        },
+        {
+            "name": "(snow) fort"
+        },
+        {
+            "name": "camp"
+        },
+        {
+            "name": "station",
+            "description": "A fortified location where survivors can retreat to when (for example) the Camp is overrun."
+        },
+        {
+            "name": "bunker",
+            "description": [
+                "An underground facility where survivors can protect themselves from the harsh winter and the [creature] horde / enemies. ",
+                "It could be a safe haven from the winter storms and the [creatures], and it can also be a place to store resources."
+            ]
+        },
+        {
+            "name": "quarantine zone",
+            "description": [
+                "Could have buildings or locations where survivors can find resources, weapons, food, and safety from the zombies. "
+            ]
+        },
+        {
+            "name": "military base",
+            "altNames": ["stronghold"],
+            "description": [
+                "It can be used as a stronghold to protect the survivors from the [creature] hordes and the harsh winter."
+            ]
+        }
+    ]
+}
