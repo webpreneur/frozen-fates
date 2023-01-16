@@ -1,0 +1,26 @@
+{
+    "midjourney": {
+        "tricks": {
+            "envelope": "react with an envelope",
+        },
+        "flags": {
+            "--ar": ["2:3", "3:2"],
+            "--q": [0.25, 0.5, 1-5],
+            "--seed": "number",
+            "--v": [1,2,3,4],
+            "--niji": ""
+        },
+        "prompts": {
+            "styles": [
+                "2D", "hand-drawn", "in color", "cartoonish", "animated", "comics"
+            ],
+            "atmosphere": 
+                [
+                    "... in permafrost apocalypse",
+                    "... in permafrost apocalypse during snowstorm",
+                    "... in an abandoned city at winter"
+                ]
+            
+        }
+    }
+}

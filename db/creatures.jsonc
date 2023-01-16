@@ -20,7 +20,14 @@
             "category": "monster"
         },
         {
-    
+            "name": "Frostclaw",
+            "altNames": ["Smilodon", "Winterfang"],
+            // ChatGPT: Write a description for the Frostclaw for a coop survival board game in permafrost
+            "description": [
+                "Frostclaw is a powerful and deadly predator that roams the frozen wastelands of the post-apocalyptic world. In the coop survival board game set in permafrost, players must face off against this formidable creature as they struggle to survive in the harsh, unforgiving environment.",
+                "The Frostclaw is a massive, white-furred beast with razor-sharp claws and teeth, capable of cutting through even the toughest of armor. Its thick, shaggy coat keeps it warm in the sub-zero temperatures, and its keen senses make it a formidable hunter.",
+                "Players will have to use all of their skills and resources to take down the Frostclaw, whether it's through traps and weapons or by working together to outsmart it. The Frostclaw is a formidable opponent, but if players can defeat it, they will earn valuable rewards that will help them survive and thrive in the frozen wilderness."
+            ]
         }
     ]
 }
